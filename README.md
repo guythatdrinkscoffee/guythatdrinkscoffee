@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @guythatdrinkscoffee
-- 👀 I’m interested in iOS development and Go
-- 🌱 I’m currently learning Go
-- 💞️ I’m looking to collaborate on any iOS projects
-- 📫 How to reach me @idrankthecoffee on Twitter
+- 👋 Hi, I’m J.Manuel! 
+- 👀 I’m interested in iOS, Android and Go development
+- 🌱 I’m currently learning Android
+- 💞️ I’m looking to collaborate on any iOS, Android or Go projects
+- 📫 How to reach me @idrankthecoffee on Twitter or @guythatdrinkscoffee on IG.
 
 <!---
 guythatdrinkscoffee/guythatdrinkscoffee is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
